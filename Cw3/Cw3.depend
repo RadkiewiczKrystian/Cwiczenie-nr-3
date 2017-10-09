@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507554952 source:d:\krystian radkiewicz\cwiczenie-nr-3\cw3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<stdexcept>
+	<sstream>
+
